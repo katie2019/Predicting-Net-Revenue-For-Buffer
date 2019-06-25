@@ -8,7 +8,9 @@ Buffer: https://buffer.com/
 
 Language: Python
 
-Model: statsmodels 
+Module: statsmodels 
+
+Time Series Models: AR, MA, ARMA, ARIMA, SARIMA, SARIMAX
 
 
 
